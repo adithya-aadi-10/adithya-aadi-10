@@ -69,3 +69,11 @@
 - LinkedIn: https://www.linkedin.com/in/adithya-katamoni-64021a329/
 - GitHub: https://github.com/adithya-aadi-10
 - Email: <adithyakatamoni@gmail.com>
+
+---
+
+## 📊 GitHub Stats
+
+![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-aadi-10&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-aadi-10&layout=compact)
