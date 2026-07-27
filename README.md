@@ -72,8 +72,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-aadi-10&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-aadi-10&layout=compact)
