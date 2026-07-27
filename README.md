@@ -1,71 +1,89 @@
-# Hi there, I'm Adithya Katamoni 👋
+<h1 align="center">Hey There 👋, I'm Adithya Katamoni</h1>
 
-🎓 B.Tech Computer Science Engineering student at Amrita Vishwa Vidyapeetham
-
-☁️ Passionate about Cloud Computing, Software Development, AI/ML, and Cybersecurity.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning Cloud Computing and Software Engineering
-- 💻 Interested in building practical and scalable solutions
-- 🔍 Exploring AI, Machine Learning, and Cloud Technologies
-- 🎯 Goal: Become a Cloud Engineer / Software Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7EF&center=true&vCenter=true&width=800&lines=Aspiring+Cloud+Engineer+%7C+Software+Engineer;Exploring+AI%2C+ML+%26+Cloud+Technologies;Building+Practical%2C+Scalable+Solutions" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🌟 About Me
+
+- 🌱 Currently learning **Cloud Computing** and **Software Engineering**
+- 💻 Interested in building **practical and scalable solutions**
+- 🔍 Exploring **AI, Machine Learning, and Cloud Technologies**
+- 🎯 Goal: Become a **Cloud Engineer / Software Engineer**
+
+---
+
+### 🛠️ Tech Arsenal
 
 **Languages**
 
-- Python
-- C
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud**
 
-- AWS
-- Oracle Cloud Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Web**
 
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Tools**
 
-- Git
-- GitHub
-- VS Code
-- MySQL
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
-- AWS Certified Cloud Practitioner
-- AWS Certified AI Practitioner
-- Oracle Cloud Infrastructure Foundations
-- Microsoft Cybersecurity Analyst
-- Google Project Management
-- NPTEL Elite – Design and Analysis of Algorithms
-
----
-
-## 📂 Projects
-
-- 🚗 AI-Driven Traffic Accident Intelligence Framework
-- 🔒 Network Intrusion Detection
+- ☁️ AWS Certified Cloud Practitioner
+- 🤖 AWS Certified AI Practitioner
+- ☁️ Oracle Cloud Infrastructure Foundations
+- 🔒 Microsoft Cybersecurity Analyst
+- 📊 Google Project Management
+- 🏆 NPTEL Elite – Design and Analysis of Algorithms
 
 ---
 
-## 📫 Connect with Me
+### 📌 Featured Projects
 
-- LinkedIn: https://www.linkedin.com/in/adithya-katamoni-64021a329/
-- GitHub: https://github.com/adithya-aadi-10
-- Email: <adithyakatamoni@gmail.com>
+- 🚗 **AI-Driven Traffic Accident Intelligence Framework** — _add a short line here on the tech stack used and the outcome/impact_
+- 🔒 **Network Intrusion Detection** — _add a short line here on the tech stack used and the outcome/impact_
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adithya-aadi-10&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-aadi-10&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-aadi-10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adithya-katamoni-64021a329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adithyakatamoni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/adithya-aadi-10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
