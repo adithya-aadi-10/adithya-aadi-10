@@ -56,8 +56,9 @@
 
 ### 📌 Featured Projects
 
-- 🚗 **AI-Driven Traffic Accident Intelligence Framework** — _add a short line here on the tech stack used and the outcome/impact_
-- 🔒 **Network Intrusion Detection** — _add a short line here on the tech stack used and the outcome/impact_
+- 🚗 **AI-Driven Traffic Accident Intelligence Framework** — Developed a multimodal machine learning framework using Python, Scikit-learn, TensorFlow, and explainable AI (SHAP) to predict crash risk and injury severity by integrating traffic, weather, and roadway data, supporting proactive road safety and emergency response.
+
+- 🔒 **Network Intrusion Detection System** — Built a machine learning-based intrusion detection system using Python, Scikit-learn, Pandas, and the NSL-KDD dataset to classify network traffic, detect malicious activities, and improve cyber threat detection accuracy.
 
 ---
 
