@@ -1,4 +1,4 @@
-# Hi there, I'm Adithya 👋
+# Hi there, I'm Adithya Katamoni 👋
 
 🎓 B.Tech Computer Science Engineering student at Amrita Vishwa Vidyapeetham
 
