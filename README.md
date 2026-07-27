@@ -20,7 +20,6 @@
 **Languages**
 
 - Python
-- Java
 - C
 - SQL
 
@@ -58,9 +57,7 @@
 ## 📂 Projects
 
 - 🚗 AI-Driven Traffic Accident Intelligence Framework
-- 🔒 Cybersecurity Internship Projects
-- 🤖 AI/ML Internship Projects
-- ☁️ AWS Cloud Projects *(Coming Soon)*
+- 🔒 Network Intrusion Detection
 
 ---
 
