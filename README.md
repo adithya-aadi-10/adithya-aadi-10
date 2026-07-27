@@ -61,7 +61,6 @@
 - 🔒 **Network Intrusion Detection System** — Built a machine learning-based intrusion detection system using Python, Scikit-learn, Pandas, and the NSL-KDD dataset to classify network traffic, detect malicious activities, and improve cyber threat detection accuracy.
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
